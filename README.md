@@ -30,20 +30,50 @@ I build **web tools that solve real problems** — Gmail productivity tools, gov
 
 ---
 
+## 💼 What I Do
+
+| 🛠️ Web Tools | 🛡️ Security Path | 🛍️ F-Commerce |
+|---|---|---|
+| Zero-backend, privacy-first tools that run entirely in the browser — resizers, alias generators, games | 12-week cybersecurity mentorship: Linux, networking, web app security — defensive focus | Founder of Shokhbox — product sourcing, Bangla copywriting, promo videos, page growth |
+
+---
+
 ## 🛠️ Tech Stack
 
+### 💻 Languages
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 </p>
+
+### 🧰 Tools & Platforms
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+### 🌱 Currently Learning
+<p>
+<img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Linux_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Terminal"/>
+<img src="https://img.shields.io/badge/Networking_Basics-1F6FEB?style=for-the-badge" alt="Networking Basics"/>
+<img src="https://img.shields.io/badge/Web_App_Security-7C3AED?style=for-the-badge" alt="Web App Security"/>
+</p>
+
+### 🎨 Creative & Growth
+<p>
+<img src="https://img.shields.io/badge/UI%2FUX_Design-FF6B6B?style=for-the-badge" alt="UI/UX Design"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Video_Editing-FF0044?style=for-the-badge" alt="Video Editing"/>
+<img src="https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge" alt="SEO"/>
+<img src="https://img.shields.io/badge/Digital_Marketing-F58529?style=for-the-badge" alt="Digital Marketing"/>
 </p>
 
 ---
@@ -56,6 +86,14 @@ I build **web tools that solve real problems** — Gmail productivity tools, gov
 </p>
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnobro398-png&layout=compact&theme=transparent&title_color=00D9FF&text_color=C9D1D9&bg_color=0A0E1A&border_color=1F6FEB" alt="Top languages"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ohnobro398-png&theme=github-dark&bg_color=0A0E1A&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" alt="Contribution activity graph" width="100%"/>
 </p>
 
 ---
