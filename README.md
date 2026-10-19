@@ -47,6 +47,7 @@ I build **web tools that solve real problems** — Gmail productivity tools, gov
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -65,6 +66,9 @@ I build **web tools that solve real problems** — Gmail productivity tools, gov
 <img src="https://img.shields.io/badge/Linux_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Terminal"/>
 <img src="https://img.shields.io/badge/Networking_Basics-1F6FEB?style=for-the-badge" alt="Networking Basics"/>
 <img src="https://img.shields.io/badge/Web_App_Security-7C3AED?style=for-the-badge" alt="Web App Security"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
 ### 🎨 Creative & Growth
