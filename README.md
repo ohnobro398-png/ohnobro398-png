@@ -1,6 +1,7 @@
 <img src="assets/banner.svg" alt="Ohnobro — Build · Secure · Ship" width="100%"/>
 
 <h1 align="center">Hey, I'm Ohnobro 👋</h1>
+<p align="center"><i>গ্রাম থেকে কোড — সমস্যা দেখলেই টুল বানাই 🛠️</i></p>
 
 <p align="center">
   <a href="https://github.com/ohnobro398-png">
@@ -31,17 +32,17 @@ I build **web tools that solve real problems** — Gmail productivity tools, gov
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
@@ -49,11 +50,11 @@ I build **web tools that solve real problems** — Gmail productivity tools, gov
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ohnobro398-png&show_icons=true&theme=transparent&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&bg_color=0A0E1A&border_color=1F6FEB&hide_border=false" alt="GitHub stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=ohnobro398-png&theme=transparent&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0A0E1A&border=1F6FEB" alt="GitHub streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ohnobro398-png&show_icons=true&theme=transparent&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&bg_color=0A0E1A&border_color=1F6FEB&hide_border=false" alt="GitHub stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ohnobro398-png&theme=transparent&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0A0E1A&border=1F6FEB" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnobro398-png&layout=compact&theme=transparent&title_color=00D9FF&text_color=C9D1D9&bg_color=0A0E1A&border_color=1F6FEB" alt="Top languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnobro398-png&layout=compact&theme=transparent&title_color=00D9FF&text_color=C9D1D9&bg_color=0A0E1A&border_color=1F6FEB" alt="Top languages"/>
 </p>
 
 ---
@@ -76,9 +77,9 @@ I build **web tools that solve real problems** — Gmail productivity tools, gov
 ## 🐍 Watch My Contributions Get Eaten
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ohnobro398-png/ohnobro398-png/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ohnobro398-png/ohnobro398-png/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ohnobro398-png/ohnobro398-png/output/github-contribution-grid-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ohnobro398-png/ohnobro398-png/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ohnobro398-png/ohnobro398-png/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ohnobro398-png/ohnobro398-png/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
