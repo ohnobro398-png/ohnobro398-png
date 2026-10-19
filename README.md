@@ -23,6 +23,7 @@ I build **web tools that solve real problems** — Gmail productivity tools, gov
 
 - 🔭 **Currently building:** advanced zero-backend web tools (HTML · CSS · JS · Python)
 - 🌱 **Learning:** Cybersecurity — Linux · Networking · Web App Security
+- 💬 Ask me about: web tools, f-commerce, cybersecurity basics
 - 🛍️ **Founder:** Shokhbox — f-commerce brand
 - 🎯 **2026 goal:** ship 10 public tools
 - ⚡ **Fun fact:** my toughest beta testers are 8-year-olds at the primary school in front of my shop
