@@ -1,24 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0A0E1A"/>
-      <stop offset="100%" stop-color="#07130C"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#050706"/>
+      <stop offset="100%" stop-color="#0B100D"/>
     </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00FF88" stroke-opacity="0.08" stroke-width="1"/>
-    </pattern>
   </defs>
   <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="300" fill="url(#grid)"/>
-  <rect x="0" y="148" width="1200" height="2" fill="#00FF88" opacity="0.25"/>
-  <!-- shield -->
-  <g transform="translate(80,55)" stroke="#00FF88" stroke-width="6" fill="none" stroke-linejoin="round">
-    <path d="M 75 10 L 140 35 L 140 105 C 140 165 110 200 75 215 C 40 200 10 165 10 105 L 10 35 Z"/>
-    <path d="M 50 105 L 70 125 L 105 85" stroke-width="7" stroke-linecap="round"/>
+  <rect x="0" y="0" width="1200" height="2" fill="#00FF88"/>
+  <rect x="0" y="298" width="1200" height="2" fill="#00FF88"/>
+  <rect x="60" y="60" width="6" height="180" fill="#00FF88"/>
+  <!-- minimal shield outline -->
+  <g transform="translate(980,70)" stroke="#00FF88" stroke-width="4" fill="none" stroke-linejoin="round" opacity="0.9">
+    <path d="M 60 8 L 112 28 L 112 88 C 112 135 88 162 60 176 C 32 162 8 135 8 88 L 8 28 Z"/>
+    <path d="M 40 88 L 55 103 L 82 72" stroke-width="5" stroke-linecap="round"/>
   </g>
-  <!-- text -->
-  <text x="260" y="125" font-family="monospace" font-size="84" font-weight="bold" fill="#FFFFFF" letter-spacing="6">OHNOBRO</text>
-  <text x="262" y="175" font-family="monospace" font-size="30" fill="#00FF88" letter-spacing="4">CYBER DEFENDER</text>
-  <text x="262" y="215" font-family="monospace" font-size="20" fill="#8B949E">$ defense --mode=on // authorized labs only // no hack-back</text>
-  <rect x="0" y="296" width="1200" height="4" fill="#00FF88"/>
+  <text x="100" y="140" font-family="monospace" font-size="96" font-weight="bold" fill="#F4F7F5" letter-spacing="14">RAYAN</text>
+  <text x="102" y="190" font-family="monospace" font-size="24" fill="#00FF88" letter-spacing="2">CYBERSECURITY ENGINEER | SECURITY RESEARCHER | SOFTWARE ENGINEER</text>
+  <text x="102" y="228" font-family="monospace" font-size="18" fill="#9AA79F" letter-spacing="2">DEFENSIVE SECURITY · SECURE ENGINEERING · OPEN SOURCE</text>
 </svg>
