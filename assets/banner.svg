@@ -18,7 +18,7 @@
   </g>
   <!-- text -->
   <text x="260" y="125" font-family="monospace" font-size="84" font-weight="bold" fill="#FFFFFF" letter-spacing="6">OHNOBRO</text>
-  <text x="262" y="175" font-family="monospace" font-size="30" fill="#00FF88" letter-spacing="4">CYBER DEFENDER IN TRAINING</text>
+  <text x="262" y="175" font-family="monospace" font-size="30" fill="#00FF88" letter-spacing="4">CYBER DEFENDER</text>
   <text x="262" y="215" font-family="monospace" font-size="20" fill="#8B949E">$ defense --mode=on // authorized labs only // no hack-back</text>
   <rect x="0" y="296" width="1200" height="4" fill="#00FF88"/>
 </svg>
