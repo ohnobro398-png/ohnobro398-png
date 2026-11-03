@@ -1,11 +1,11 @@
-<img src="assets/banner.svg" alt="Ohnobro — Cyber Defender in Training" width="100%"/>
+<img src="assets/banner.svg" alt="Ohnobro — Cyber Defender" width="100%"/>
 
-<h1 align="center">🛡️ Ohnobro — Cyber Defender in Training</h1>
+<h1 align="center">🛡️ Ohnobro — Cyber Defender</h1>
 <p align="center"><i>Defense first. No target without authorization.</i></p>
 
 <p align="center">
   <a href="https://github.com/ohnobro398-png">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=760&lines=Cyber+Defender+in+Training;Defensive+Security+Student;Privacy-First+Tool+Builder;Kali+Lab+Learner" alt="Typing animation: my roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=760&lines=Cyber+Defender;Defensive+Security+Builder;Privacy-First+Tool+Builder;Kali+Lab+Operator" alt="Typing animation: my roles" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ```console
 $ whoami
-ohnobro // cyber-defender-in-training
+ohnobro // cyber-defender
 $ mission --mode defensive-only
 ✔ authorized labs only  ·  ✔ no hack-back  ·  ✔ own code first
 ```
@@ -31,9 +31,9 @@ $ mission --mode defensive-only
 I learn security the defensive way: **protect first, understand attacks only to stop them.** Every lab runs on my own systems or authorized practice targets — never on someone else's site.
 
 - 🔭 **Currently building:** advanced zero-backend web tools (HTML · CSS · JS · Python)
-- 🌱 **Learning:** 12-week cybersecurity mentorship — Linux · Networking · Web App Security
+- 🌱 **Advancing:** 12-week cybersecurity mentorship — Linux · Networking · Web App Security
 - 🧪 **Lab:** Kali Linux on my own VM — terminal, defensive missions, authorized labs only
-- 💬 Ask me about: web tools, cybersecurity basics, f-commerce
+- 💬 Ask me about: web tools, cybersecurity, f-commerce
 - 🛍️ **Founder:** Shokhbox — f-commerce brand
 - 🎯 **2026 goal:** ship 10 public tools
 - ⚡ **Fun fact:** I test every tool on my own setup before it reaches anyone else.
@@ -48,7 +48,7 @@ I learn security the defensive way: **protect first, understand attacks only to 
 | **Mode** | DEFENSIVE ONLY |
 | **Scope** | My own systems + authorized labs |
 | **Doctrine** | Protect first, prove it second |
-| **Status** | IN TRAINING — 12-week mentorship |
+| **Status** | ACTIVE — Defending own systems + authorized labs |
 
 ---
 
@@ -76,7 +76,7 @@ I learn security the defensive way: **protect first, understand attacks only to 
 <p>
 <img src="https://img.shields.io/badge/Kali_Linux-557799?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 <img src="https://img.shields.io/badge/Linux_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Terminal"/>
-<img src="https://img.shields.io/badge/Networking_Basics-1F6FEB?style=for-the-badge" alt="Networking Basics"/>
+<img src="https://img.shields.io/badge/Networking-1F6FEB?style=for-the-badge" alt="Networking"/>
 <img src="https://img.shields.io/badge/Web_App_Security-00FF88?style=for-the-badge" alt="Web App Security"/>
 <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge" alt="Cybersecurity"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -92,6 +92,8 @@ I learn security the defensive way: **protect first, understand attacks only to 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
 </p>
 
 ### 🛠️ Platforms & Craft
@@ -117,6 +119,8 @@ I learn security the defensive way: **protect first, understand attacks only to 
 | 12-week defensive mentorship: Linux, networking, web app security — own labs only | Zero-backend, privacy-first tools that run entirely in the browser — resizers, alias generators, games | Founder of Shokhbox — product sourcing, Bangla copywriting, promo videos, page growth |
 
 My public skill collection lives in **[quantum-skills](https://github.com/ohnobro398-png/quantum-skills)** — agent teams and tools I actually use.
+
+Also shipping: Android apps in Flutter, AI skill packs, and short-form video systems.
 
 ---
 
