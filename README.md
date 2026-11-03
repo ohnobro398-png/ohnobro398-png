@@ -1,7 +1,7 @@
 <img src="assets/banner.svg" alt="Ohnobro — Cyber Defender in Training" width="100%"/>
 
 <h1 align="center">🛡️ Ohnobro — Cyber Defender in Training</h1>
-<p align="center"><i>গ্রাম থেকে কোড — defense first, attack never without authorization.</i></p>
+<p align="center"><i>Defense first. No target without authorization.</i></p>
 
 <p align="center">
   <a href="https://github.com/ohnobro398-png">
@@ -36,7 +36,28 @@ I learn security the defensive way: **protect first, understand attacks only to 
 - 💬 Ask me about: web tools, cybersecurity basics, f-commerce
 - 🛍️ **Founder:** Shokhbox — f-commerce brand
 - 🎯 **2026 goal:** ship 10 public tools
-- ⚡ **Fun fact:** my toughest beta testers are 8-year-olds at the primary school in front of my shop
+- ⚡ **Fun fact:** I test every tool on my own setup before it reaches anyone else.
+
+---
+
+## 🛰️ Operator Card
+
+| | |
+|---|---|
+| **Callsign** | OHNOBRO |
+| **Mode** | DEFENSIVE ONLY |
+| **Scope** | My own systems + authorized labs |
+| **Doctrine** | Protect first, prove it second |
+| **Status** | IN TRAINING — 12-week mentorship |
+
+---
+
+## 📜 Mission Log
+
+- **2026-10** — 12-week defensive cybersecurity mentorship begins
+- **2026-10** — Quantum Shield site goes live (frozen since, defensive watch only)
+- **2026-10** — Profile + first public tools ship
+- **2026-11** — Profile goes full cyber-defender
 
 ---
 
